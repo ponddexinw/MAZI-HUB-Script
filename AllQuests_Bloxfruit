@@ -1,33 +1,126 @@
-{
-    {1,"Bandit Quest Giver"},
-    {10,"Adventurer"},
-    {30,"Pirate Adventurer"},
-    {60,"Desert Adventurer"},
-    {90,"Villager"},
-    {120,"Marine"},
-    {150,"Sky Adventurer"},
-    {225,"Colosseum Quest GIver"},
-    {300,"The Mayor"},
-    {375,"King Neptune"},
-    {450,"Mole"},
-    {525,"Gan Fall Adventurer"}, 
-    {625,"Freezeburg Quest Giver"},
-    {700,"Area 1 Quest Giver"},
-    {800,"Area 2 Quest Giver"},
-    {875,"Marine Quest Giver"},
-    {950,"Graveyard Quest Giver"},
-    {1000,"Snow Quest Giver"},
-    {1100,"Ice Quest Giver"},
-    {1175,"Fire Quest Giver"},
-    {1250,"Rear Crew Quest Giver"},
-    {1300,"Front Crew Quest Giver"},
-    {1350,"Frost Quest Giver"},
-    {1425,"Forgotten Quest Giver"},
-    {1500,"Pirate Port Quest Giver"},
-    {1575,"Amazon Quest Giver"},
-    {1625,"Amazon Area 2 Quest Giver"},
-    {1700,"Marine Tree Quest Giver"},
-    {1775,"Turtle Adventure Quest Giver"},
-    {1825,"Deep Forest Quest Giver"},
-    {1900,"Deep Forest Area 2 Quest Giver"}
-}
+[
+  [
+    1,
+    "Bandit Quest Giver"
+  ],
+  [
+    10,
+    "Adventurer"
+  ],
+  [
+    30,
+    "Pirate Adventurer"
+  ],
+  [
+    60,
+    "Desert Adventurer"
+  ],
+  [
+    90,
+    "Villager"
+  ],
+  [
+    120,
+    "Marine"
+  ],
+  [
+    150,
+    "Sky Adventurer"
+  ],
+  [
+    225,
+    "Colosseum Quest GIver"
+  ],
+  [
+    300,
+    "The Mayor"
+  ],
+  [
+    375,
+    "King Neptune"
+  ],
+  [
+    450,
+    "Mole"
+  ],
+  [
+    525,
+    "Gan Fall Adventurer"
+  ],
+  [
+    625,
+    "Freezeburg Quest Giver"
+  ],
+  [
+    700,
+    "Area 1 Quest Giver"
+  ],
+  [
+    800,
+    "Area 2 Quest Giver"
+  ],
+  [
+    875,
+    "Marine Quest Giver"
+  ],
+  [
+    950,
+    "Graveyard Quest Giver"
+  ],
+  [
+    1000,
+    "Snow Quest Giver"
+  ],
+  [
+    1100,
+    "Ice Quest Giver"
+  ],
+  [
+    1175,
+    "Fire Quest Giver"
+  ],
+  [
+    1250,
+    "Rear Crew Quest Giver"
+  ],
+  [
+    1300,
+    "Front Crew Quest Giver"
+  ],
+  [
+    1350,
+    "Frost Quest Giver"
+  ],
+  [
+    1425,
+    "Forgotten Quest Giver"
+  ],
+  [
+    1500,
+    "Pirate Port Quest Giver"
+  ],
+  [
+    1575,
+    "Amazon Quest Giver"
+  ],
+  [
+    1625,
+    "Amazon Area 2 Quest Giver"
+  ],
+  [
+    1700,
+    "Marine Tree Quest Giver"
+  ],
+  [
+    1775,
+    "Turtle Adventure Quest Giver"
+  ],
+  [
+    1825,
+    "Deep Forest Quest Giver"
+  ],
+  [
+    1900,
+    "Deep Forest Area 2 Quest Giver"
+  ]
+]
